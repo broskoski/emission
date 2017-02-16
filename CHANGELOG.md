@@ -2,6 +2,7 @@
 
 - Add your contributions below:
 
+- Replaced fetching in infinite artworks grid component with relay - cab
 - Gave ESLint, Flow and Danger the ability to fail the build - orta
 - Gene Refine button is enabled - orta
 - Fix extra blankspace in Artist Card when data is missing - luc
